@@ -1,0 +1,126 @@
+body{
+  font-family: Rockwell;
+  cursor: pointer;
+}
+
+.nav {
+  background-color: #C74B55;
+  height:200px;
+  width:50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: 65px;
+  position: absolute;
+  right:0;
+
+}
+
+
+.casa img{
+  margin-top: 100px;
+  width:50%;
+
+
+}
+
+
+#info {
+    color: black;
+    width:45%;
+    position:absolute;
+    right:0;
+    top: 230px;
+    line-height: 1.6;
+    margin-right: 30px;
+
+
+
+}
+
+
+#pros {
+  width:49%;
+  position:absolute;
+  right:0;
+  top: 530px;
+  left: 800px;
+  font-size: 20px;
+
+
+}
+
+#cons {
+
+  width:49%;
+  position:absolute;
+  right:0;
+  top: 530px;
+  left: 1050px;
+  font-size: 20px;
+
+
+}
+
+#comment  {
+
+  position: absolute;
+  right:260px;
+  top: 150px;
+  color: white;
+  font-size: 20px;
+
+}
+
+#prosay {
+  position:absolute;
+  right:0;
+  top: 600px;
+  left: 780px;
+
+}
+
+
+
+#consay {
+  position:absolute;
+  top: 600px;
+  left: 1020px;
+
+}
+
+.return {
+margin-left: 15px;
+position: absolute;
+right:15px;
+bottom:0;
+
+}
+
+
+.return:hover {
+ opacity: 0.5;
+
+}
+
+a {
+  text-decoration: none;
+
+
+}
+
+
+.rehome{
+margin-left: 15px;
+position: absolute;
+right:15px;
+bottom:15px;
+
+}
+
+
+.rehome:hover {
+ opacity: 0.5;
+
+}
